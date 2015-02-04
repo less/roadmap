@@ -5,4 +5,4 @@ While upcoming features are documented in Less.js's Github issue threads, it can
 
 Feature   | Extension | Issue # | &nbsp;
 -------   | ---- | --- | ---
-:extend   | Additional keyword flags (any, deep) for different extend behaviors | less/less.js#2101 | <a href="extend.md">Details</a>
+:extend   | Additional keyword flags (any, deep) for different extend behaviors | [#2101](/less/less.js/issues/2101) | [Details](extend.md)
