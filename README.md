@@ -3,6 +3,6 @@ While upcoming features are documented in Less.js's Github issue threads, it can
 
 ## Extensions of Current Features
 
-Feature   | Extension | Issue # | &nbsp;
+Feature   | Extension | Issue | &nbsp;
 -------   | ---- | --- | ---
 :extend   | Additional keyword flags (any, deep) for different extend behaviors | [#2101](/less/less.js/issues/2101) | [Details](extend.md)
