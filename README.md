@@ -5,4 +5,4 @@ While upcoming features are documented in Less.js's Github issue threads, it can
 
 Feature   | Summary | Issue | &nbsp;
 -------   | ---- | --- | ---
-:extend   | Additional keyword flags (any, deep) for different extend behaviors | [#2101](../../../less.js/issues/2101) [#1155](../../../less.js#1155) | [Details](extend.md)
+:extend   | Additional keyword flags (any, deep) for different extend behaviors | [#2101](../../../less.js/issues/2101) [#1155](../../../less.js/issues/1155) | [Details](extend.md)
