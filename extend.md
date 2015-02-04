@@ -15,4 +15,4 @@
 Since ```exact``` and ```shallow``` are default values, they are not needed / supported as explicit keywords, but are listed above to explain the differences in behavior.
 
 #### Related Discussion
-[#1155](/less/less.js/issues/1155) [#2101](/less/less.js/issues/2101)
+[#1155](../../../less.js/issues/1155) [#2101](../../../less.js/issues/2101)
